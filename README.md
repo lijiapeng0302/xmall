@@ -194,7 +194,5 @@
 - 个人学习使用遵循GPL开源协议
 - 商用需联系作者低价授权
 ### 捐赠
-![](http://p77xsahe9.bkt.clouddn.com/18-7-20/54731550.jpg)
 
-![](http://p77xsahe9.bkt.clouddn.com/18-6-28/32845239.jpg)
 
